@@ -1,10 +1,10 @@
 // Fill with your Firebase project config (from Firebase console)
 export const firebaseConfig = {
-  apiKey: "AIzaSyAG9oigcicM9nkf66SPwFSm_A161ewmOTo",
-  authDomain: "birds-logo-reveal.firebaseapp.com",
-  databaseURL: "https://birds-logo-reveal-default-rtdb.firebaseio.com",
-  projectId: "birds-logo-reveal",
-  storageBucket: "birds-logo-reveal.firebasestorage.app",
-  messagingSenderId: "750061165103",
-  appId: "1:750061165103:web:4186740d548a059019c4da"
+  apiKey: "AIzaSyAH9pz6x0v-yURT52IKjHP87fwgQBj8owA",
+  authDomain: "birds-logo-reveal-55dfd.firebaseapp.com",
+  databaseURL: "https://birds-logo-reveal-55dfd-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "birds-logo-reveal-55dfd",
+  storageBucket: "birds-logo-reveal-55dfd.firebasestorage.app",
+  messagingSenderId: "172135073609",
+  appId: "1:172135073609:web:39cceb06710f054b38fc98"
 }
