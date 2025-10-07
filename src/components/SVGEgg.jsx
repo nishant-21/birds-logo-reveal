@@ -224,7 +224,7 @@ export default function SVGEgg({ stage, thresholds, status, onTap }) {
               <div className={`text-col ${logoMoved ? 'in' : ''}`}>
                 <div className={`welcome ${welcomeIn ? 'in' : ''}`}>Welcome to</div>
                 <div className={`birds ${birdsIn ? 'in' : ''}`}>
-                  <span className="birds-text">B.I.R.D.S</span>
+                  <span className="birds-text">BIRDS</span>
                 </div>
               </div>
             </div>
