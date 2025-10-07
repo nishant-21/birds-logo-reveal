@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "session": {
+      ".read": true,
+      ".write": "auth != null || newData.child('status').val() == 'in_progress'"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Placeholder layered SVG. Replace with Figma/Illustrator export with named groups:
+  - g id="logo_layer"
+  - g id="mask"
+  - g id="crack_1".."crack_n"
+  - g id="shell_piece_top_right" (separate for falling)
+  - g id="shell_piece_bottom_left" ...
+  - g id="front_shell"
+  Dimensions: viewBox="-80 -105 160 210" preserveAspectRatio="xMidYMid meet"  -->
+<svg viewBox="-80 -105 160 210" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <g id="logo_layer">
+    <rect x="-70" y="-70" width="140" height="140" fill="#1e40af"/>
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" fill="#fff" font-size="18">LOGO</text>
+  </g>
+  <g id="front_shell" fill="#f5f2e8" stroke="#d8d3c4" stroke-width="1">
+    <ellipse rx="80" ry="105" />
+  </g>
+  <g id="shell_piece_top_right" transform="translate(25,-60)">
+    <path d="M 0 0 C 10 -5 25 -5 30 5 C 35 15 25 30 10 35 C -5 30 -10 15 0 0 Z" fill="#efe9da" stroke="#d8d3c4"/>
+  </g>
+  <g id="crack_1" stroke="#bfb8a5" stroke-width="0.6" fill="none">
+    <path d="M 0 -40 L 0 20" />
+  </g>
+</svg>
